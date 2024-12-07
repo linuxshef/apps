@@ -1,0 +1,2 @@
+#!/bin/bash
+cd ~ ; wget https://llaun.ch/jar ; mv jar 
