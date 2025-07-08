@@ -1,5 +1,7 @@
 # Готовые пакеты для Manjaro/Archlinux
 ----------------------------------------
+>Пример установки: sudo pacman -S oniux-0.5.0-1-x86_64.pkg.tar.zst
+----------------------------------------
 
 **КриптоПро CSP** [скачать](https://github.com/linuxshef/apps/releases/download/cryptopro-csp-k1-5.0.13300-1/cryptopro-csp-k1-5.0.13300-1-x86_64.pkg.tar.zst)
 
