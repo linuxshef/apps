@@ -7,6 +7,10 @@
 
 --------------------------------------------
 
+**Davinci Resolve Studio** [скачать](https://files.legalloli.net/filebrowser/api/public/dl/MtJBhNr4/pkg/davinci-resolve-studio-20.0.1-1-x86_64.pkg.tar.zst)
+
+--------------------------------------------
+
 **BalenaEtcher скачать** [скачать](https://github.com/linuxshef/apps/releases/download/balena-etcher-bin-2.1.3-1/balena-etcher-bin-2.1.3-1-x86_64.pkg.tar.zst)
 
 ----------------------------------------------
