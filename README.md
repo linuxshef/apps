@@ -14,3 +14,7 @@
 **Tor Oniux** [скачать](https://github.com/linuxshef/apps/releases/download/oniux/oniux-0.5.0-1-x86_64.pkg.tar.zst)
 
 ----------------------------------------------
+
+**V2rayN-bin** [скачать](https://github.com/linuxshef/apps/releases/download/v2rayn-bin-7.12.7-1/v2rayn-bin-7.12.7-1-x86_64.pkg.tar.zst)
+
+----------------------------------------------
